@@ -51,6 +51,7 @@ h1 {
 .info_container{
     display: flex;
     flex-wrap: wrap;
+    margin:10px;
 }
 .ex_h3, .peso_div{
     background-color: #7a4a1bec;
