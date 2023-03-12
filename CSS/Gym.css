@@ -1,4 +1,4 @@
-﻿body {
+body {
     background-image: url("../Assets/mariajim.png");
     background-position: center center;
     background-size: cover;
@@ -53,7 +53,7 @@ h1 {
     flex-wrap: wrap;
     margin:10px;
 }
-.ex_h3, .peso_div{
+.peso_div{
     background-color: #7a4a1bec;
     margin: 10px;
     font-size: 30px;
